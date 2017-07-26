@@ -1,0 +1,254 @@
+{
+    "frames": {
+        "character-0-0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 84
+            }
+        },
+        "character-0-1": {
+            "frame": {
+                "x": 152,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 84
+            }
+        },
+        "character-0-2": {
+            "frame": {
+                "x": 76,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 84
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 84
+            }
+        },
+        "character-1-0": {
+            "frame": {
+                "x": 0,
+                "y": 88,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-1-1": {
+            "frame": {
+                "x": 76,
+                "y": 88,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-1-2": {
+            "frame": {
+                "x": 152,
+                "y": 88,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-2-0": {
+            "frame": {
+                "x": 228,
+                "y": 175,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-2-1": {
+            "frame": {
+                "x": 228,
+                "y": 87,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-2-2": {
+            "frame": {
+                "x": 0,
+                "y": 175,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-3-0": {
+            "frame": {
+                "x": 76,
+                "y": 175,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-3-1": {
+            "frame": {
+                "x": 152,
+                "y": 175,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        },
+        "character-3-2": {
+            "frame": {
+                "x": 228,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 83
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sprite.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 300,
+            "h": 258
+        },
+        "scale": 1
+    }
+}
